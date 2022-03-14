@@ -36,7 +36,7 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image: url(../img/hero.png);
+    background-image: url(../img/air.jpg);
     position: relative;
     z-index: 0;
     background-repeat: no-repeat;
